@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.java_websocket</groupId>
+  <artifactId>Java-WebSocket</artifactId>
+  <version>1.3.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150525.070530</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20150525070530</lastUpdated>
+  </versioning>
+</metadata>
